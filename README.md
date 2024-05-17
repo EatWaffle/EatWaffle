@@ -17,7 +17,7 @@
   <div align="center">
     <!-- visitor statistics logo 访问量统计徽标 -->
      <a href="https://www.zhihu.com/people/wangjian-16-97"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=Lorin-github&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=EatWaffle&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 
